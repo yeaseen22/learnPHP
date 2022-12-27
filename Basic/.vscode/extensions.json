@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "brapifra.phpserver",
+        "bmewburn.vscode-intelephense-client",
+        "jeff-hykin.better-cpp-syntax",
+        "ms-vscode.cpptools",
+        "twxs.cmake",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
