@@ -22,4 +22,6 @@ $array = ["foo" => "bar",
 $array2 = array("foo", "bar", "hello", "world");
 var_dump($array2);
 
+// add main code after solve the problem
+
 ?>
